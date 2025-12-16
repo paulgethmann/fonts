@@ -1,8 +1,8 @@
 @font-face {
-    font-family: 'Blog Script';
-    src: url('BlogScript.woff2') format('woff2'),
-        url('BlogScript.woff') format('woff');
-    font-weight: normal;
+    font-family: 'Museo 500';
+    src: url('Museo-500.woff2') format('woff2'),
+        url('Museo-500.woff') format('woff');
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
